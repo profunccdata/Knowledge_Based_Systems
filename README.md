@@ -18,10 +18,10 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
 
-#### Scikit Learn Documentation - Bayes is more than just Naive Bayes
-  4. Scikit Learn documentation for Bayes:  </p>
-  <a href="https://scikit-learn.org/stable/modules/classes.html?highlight=bayes#module-sklearn.naive_bayes">sklearn.naive_bayes</a>
-  <p></p>
+#### Scikit Learn Documentation for Naive Bayes
+  <p>The sklearn.naive_bayes module implements Naive Bayes algorithms. These are supervised learning methods based on applying Bayes’ theorem with strong (naive) feature independence assumptions.</p>
+  <a href="https://scikit-learn.org/stable/modules/naive_bayes.html">Scikit Learn Naive Bayes Documentation</a><p></p>
+  
 
 
 
