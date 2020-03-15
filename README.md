@@ -31,7 +31,7 @@ In practice, it is very challenging to calculate full Bayes Theorem for classifi
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
 <p>2. Do you want to learn more about the Bayes Optimal Classifier?</p>
-<a href="https://machinelearningmastery.com/bayes-optimal-classifier/">Bayes Optimal Classifier</a>
+<a href="https://machinelearningmastery.com/bayes-optimal-classifier/">Bayes Optimal Classifier</a><p></p>
 <p>2.  Evaluation using a Confusion Matrix</p>
 <p><a href="https://machinelearningmastery.com/confusion-matrix-machine-learning/">Explaining the Confusion Matrix</a></p>
 
