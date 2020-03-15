@@ -11,5 +11,8 @@
 <p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
+<p>Evaluation using a Confusion Matrix</p>
+<p><a href="https://machinelearningmastery.com/confusion-matrix-machine-learning/">Explaining the Confusion Matrix</a></p>
+
 
 
