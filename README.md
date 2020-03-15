@@ -26,9 +26,9 @@ In practice, it is very challenging to calculate full Bayes Theorem for classifi
 
 <p>1.  Do you want to review Naive Bayes?  </p>
 <p>Here is a great review from Datacamp:  <a href="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">Naive Bayes Review</a></p>
-<p>This is a another good resource:</p>
-<a href="https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/">Machine Learning Mastery - Naive Bayes</a>
-<p>Click on "Open in Colab" to see an example of Naive Bayes in Google Colab Using Jupyter</p>
+<p>This is a another good resource:  <a href="https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/">Machine Learning Mastery - Naive Bayes</a><p>
+
+<p>Let's check out an example in code. Click on "Open in Colab" to see an example of Naive Bayes in Google Colab Using Jupyter</p>
 <p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
