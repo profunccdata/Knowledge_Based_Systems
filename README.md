@@ -21,7 +21,8 @@ In practice, it is very challenging to calculate full Bayes Theorem for classifi
 
 #### Naive Bayes Classifier
 
-<p>The Bayes Theorem assumes that each input variable is dependent upon all other variables. This is a cause of complexity in the calculation. We can remove this assumption and consider each input variable as being independent from each other.</p>
+<p>The Bayes Theorem assumes that each input variable is dependent upon all other variables. This is a cause of complexity in the calculation. We can remove this assumption and consider each input variable as being independent from each other.</p><p>
+  The Naive Bayes classifier is an example of a classifier that adds some simplifying assumptions and attempts to approximate the Bayes Optimal Classifier.</p>
 
 <p>1.  Do you want to review Naive Bayes?  This is a good resource.</p>
 <a href="https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/">Machine Learning Mastery - Naive Bayes</a>
@@ -29,6 +30,8 @@ In practice, it is very challenging to calculate full Bayes Theorem for classifi
 <p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
+<p>2. Do you want to learn more about the Bayes Optimal Classifier?</p>
+<a href="https://machinelearningmastery.com/bayes-optimal-classifier/">Bayes Optimal Classifier</a>
 <p>2.  Evaluation using a Confusion Matrix</p>
 <p><a href="https://machinelearningmastery.com/confusion-matrix-machine-learning/">Explaining the Confusion Matrix</a></p>
 
