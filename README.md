@@ -5,6 +5,7 @@
   <p>Along the way we we learn how to create, resize, and delete job-specific Hadoop clusters using Cloud Dataproc.</p>
   
 ### A Gentle Introduction to Bayes Theorem for Machine Learning
+#### Bayes Theorem
 <p>Classification is a predictive modeling problem that involves assigning a label to a given input data sample.</p>
 
 <p>The problem of classification predictive modeling can be framed as calculating the conditional probability of a class label given a data sample, for example:<br><br>
@@ -17,6 +18,7 @@ Where P(class|data) is the probability of class given the provided data.</p>
 
 In practice, it is very challenging to calculate full Bayes Theorem for classification especially as the number of variables increases.</p>
 <p>The solution to using Bayes Theorem for a conditional probability classification model is to simplify the calculation.</p>
+#### Naive Bayes Classifier
 
 <p>The Bayes Theorem assumes that each input variable is dependent upon all other variables. This is a cause of complexity in the calculation. We can remove this assumption and consider each input variable as being independent from each other.</p>
 
