@@ -13,9 +13,9 @@
 
 #### Python Example in Google Colab
 
-<p>Let's check out an example in code. Click on "Open in Colab" to see an example of Naive Bayes in Google Colab Using Jupyter</p>
-<p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<p>Let's check out an example in code. Click on "Naive Bayes Notebook" to see an example of Naive Bayes in Google Colab Using Jupyter and Scikit-Learn. You can click on the Colab button to practice with the code</p>
+<p><a href="https://github.com/profunccdata/Knowledge_Based_Systems/blob/master/Naive_Bayes_Classifier_Gaussian.ipynb">
+Naive Bayes Notebook
 </a></p>
 
 #### Scikit Learn Documentation for Naive Bayes
