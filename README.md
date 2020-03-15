@@ -5,13 +5,13 @@
   <p>Along the way we we learn how to create, resize, and delete job-specific Hadoop clusters using Cloud Dataproc.</p>
   
 ### A Gentle Introduction to Naive Bayes Theorem for Machine Learning
-<p>A.  Do you want to review Naive Bayes?  This is a good resource.</p>
+<p>1.  Do you want to review Naive Bayes?  This is a good resource.</p>
 <a href="https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/">Machine Learning Mastery - Naive Bayes</a>
 <p>Click on "Open in Colab" to see an example of Naive Bayes in Google Colab Using Jupyter</p>
 <p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
-<p>B.  Evaluation using a Confusion Matrix</p>
+<p>2.  Evaluation using a Confusion Matrix</p>
 <p><a href="https://machinelearningmastery.com/confusion-matrix-machine-learning/">Explaining the Confusion Matrix</a></p>
 
 
