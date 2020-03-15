@@ -24,7 +24,9 @@ In practice, it is very challenging to calculate full Bayes Theorem for classifi
 <p>The Bayes Theorem assumes that each input variable is dependent upon all other variables. This is a cause of complexity in the calculation. We can remove this assumption and consider each input variable as being independent from each other.</p><p>
   The Naive Bayes classifier is an example of a classifier that adds some simplifying assumptions and attempts to approximate the Bayes Optimal Classifier.</p>
 
-<p>1.  Do you want to review Naive Bayes?  This is a good resource.</p>
+<p>1.  Do you want to review Naive Bayes?  </p>
+<p>Here is a great review from Datacamp:  <a href="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">Naive Bayes Review</a></p>
+<p>This is a another good resource:</p>
 <a href="https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/">Machine Learning Mastery - Naive Bayes</a>
 <p>Click on "Open in Colab" to see an example of Naive Bayes in Google Colab Using Jupyter</p>
 <p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
