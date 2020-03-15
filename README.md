@@ -9,7 +9,7 @@
 
 <p>The problem of classification predictive modeling can be framed as calculating the conditional probability of a class label given a data sample, for example:<br><br>
 
-    P(class|data) = (P(data|class) * P(class)) / P(data)<br><br>
+    P(class|data) = (P(data|class) * P(class)) / P(data)
 
 Where P(class|data) is the probability of class given the provided data.</p>
 
