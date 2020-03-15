@@ -32,7 +32,7 @@ In practice, it is very challenging to calculate full Bayes Theorem for classifi
 <p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></p>
-<p>2. Do you want to learn more about the Bayes Optimal Classifier?</p>
+<p>2. A version of Bayes is the Bayes Optimal Classifier.  Selecting the outcome with the maximum probability is an example of a Bayes optimal classification. Do you want to learn more about the Bayes Optimal Classifier?</p>
 <a href="https://machinelearningmastery.com/bayes-optimal-classifier/">Bayes Optimal Classifier</a><p></p>
 <p>3.  Evaluation using a Confusion Matrix</p>
 <p><a href="https://machinelearningmastery.com/confusion-matrix-machine-learning/">Explaining the Confusion Matrix</a></p><p>
