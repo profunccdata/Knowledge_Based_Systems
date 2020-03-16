@@ -42,7 +42,8 @@ Naive Bayes Notebook
 
 <p></p>
 <p></p>
-[ back to Table of Contents](#toc)
+
+[back to Table of Contents](#toc)
 
 <a name="chapter8"></a>
 ## Chapter 8:  Time-Windowed Aggregate Features
