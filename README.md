@@ -1,4 +1,6 @@
 # Knowledge_Based_Systems: Repository for ITCS 6155
+
+<a name="toc"></a>
 ## Table of Contents
 
 1. [ Chapter 6: Bayes Classifier on Cloud Dataproc ](#chapter6)
@@ -9,7 +11,7 @@
 2. [ Appendix A: Considerations for Sensitive Data within Machine Learning Dataasets](#appendixa)
 
 
-<a name="chapter6"></a>
+<a name="chapter6"></a>[ back to Table of Contents ]
 ## Chapter 6:  Bayes Classifier on Cloud Dataproc
 <p>Google Cloud Dataproc makes it convenient to spin up a Hadoop cluster that is capable of running MapReduce, Pig, Hive, and Spark.  In this chapter, we create3 a Bayesian model to predict the likely arrival delay of a flight.  We will use an integrated workflow that involves Bigquery, Spark SQL, and Apache Pig.  A Bayesian model will be used to predict the likely arrival delay of a flight<p>
   <p>Along the way we we learn how to create, resize, and delete job-specific Hadoop clusters using Cloud Dataproc.</p>
