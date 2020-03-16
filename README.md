@@ -35,7 +35,8 @@ Naive Bayes Notebook
   <p>The sklearn.naive_bayes module implements Naive Bayes algorithms. These are supervised learning methods based on applying Bayes’ theorem with strong (naive) feature independence assumptions.</p>
   <a href="https://scikit-learn.org/stable/modules/naive_bayes.html">Scikit Learn Naive Bayes Documentation</a><p></p>
  <p></p>
- [ back to Table of Contents](#toc)
+ 
+[ back to Table of Contents](#appendixa)
  
 <a name="chapter7"></a>
 ## Chapter 7:  Machine Learning: Logistic Regression on Spark
