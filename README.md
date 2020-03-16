@@ -32,27 +32,32 @@ Naive Bayes Notebook
   <p>The sklearn.naive_bayes module implements Naive Bayes algorithms. These are supervised learning methods based on applying Bayes’ theorem with strong (naive) feature independence assumptions.</p>
   <a href="https://scikit-learn.org/stable/modules/naive_bayes.html">Scikit Learn Naive Bayes Documentation</a><p></p>
  <p></p>
+ 
 <a name="chapter7"></a>
 ## Chapter 7:  Machine Learning: Logistic Regression on Spark
 
 <p></p>
 <p></p>
- <a name="chapter8"></a>
+
+<a name="chapter8"></a>
 ## Chapter 8:  Time-Windowed Aggregate Features
 
 <p></p>
 <p></p>
- <a name="chapter9"></a>
+
+<a name="chapter9"></a>
 ## Chapter 9:  Machine Learning Classifier Using Tensorflow
 
 <p></p>
 <p></p>
- <a name="chapter10"></a>
+
+<a name="chapter10"></a>
 ## Chapter 10:  Real-Time Machine Learning
 
 <p></p>
 <p></p>
- <a name="appendixa"></a>
+
+<a name="appendixa"></a>
 ## Appendix A:  Bayes Classifier on Cloud Dataproc
 
 <p></p>
