@@ -43,36 +43,41 @@ Naive Bayes Notebook
 
 <p></p>
 <p></p>
-
-[back to Table of Contents](#toc)
-
+ 
+[ back to Table of Contents](#toc)
+ 
 <a name="chapter8"></a>
 ## Chapter 8:  Time-Windowed Aggregate Features
 
 <p></p>
-<p></p>
-[ back to Table of Contents](#toc)
+<p></p> 
 
+[ back to Table of Contents](#toc)
+ 
 <a name="chapter9"></a>
 ## Chapter 9:  Machine Learning Classifier Using Tensorflow
 
 <p></p>
-<p></p>
-[ back to Table of Contents](#toc)
+<p></p> 
 
+[ back to Table of Contents](#toc)
+ 
 <a name="chapter10"></a>
 ## Chapter 10:  Real-Time Machine Learning
 
 <p></p>
-<p></p>
+<p></p> 
+
 [ back to Table of Contents](#toc)
+ 
 
 <a name="appendixa"></a>
 ## Appendix A:  Bayes Classifier on Cloud Dataproc
 
 <p></p>
-<p></p>
-[ back to Table of Contents](#toc)
+<p></p> 
 
+[ back to Table of Contents](#toc)
+ 
 
 
