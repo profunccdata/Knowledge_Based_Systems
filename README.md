@@ -22,7 +22,9 @@
 <p>Classification is a predictive modeling problem that involves assigning a label to a given new data sample input. For our case study, we want to know if our flight will be late or not based on what we know at the time we can make a decision to cancel</p>
 
 <p>Analytics Vidhya has an excellent introduction to Bayes and it does not avoid the statistics behind the theorem.  As data scientists, we need to know the statistics behind our models but there is no reason to make it overly complicated!  I think you will like this article on Analytics Vidhya:</p>
-<a href="https://www.analyticsvidhya.com/blog/2019/06/introduction-powerful-bayes-theorem-data-science/">An Introduction to the Powerful Bayes Theorem for Data Science Professionals</a>
+<a href="https://www.analyticsvidhya.com/blog/2019/06/introduction-powerful-bayes-theorem-data-science/">An Introduction to the Powerful Bayes Theorem for Data Science Professionals</a><p></p>
+<p>Here is a good video explaining Naive Bayes and the Bayes Theorem:</p>
+<a href="https://youtu.be/l3dZ6ZNFjo0">Naive Bayes Classifier</a>
 
 #### Python Example in Google Colab
 
