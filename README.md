@@ -94,7 +94,7 @@ Naive Bayes Notebook
 
 ### Introducing Association Rules for Machine Learning
 
-#### Bayes Theorem
+#### Apriori Algorithm and Association Rule Mining
 <p>Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database.</p>
 
 <p>Analytics Vidhya has an excellent introduction to Association Rule Mining in Python: </p>
