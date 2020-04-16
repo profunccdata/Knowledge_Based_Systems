@@ -43,7 +43,8 @@ Naive Bayes Notebook
 <a name="chapter7"></a>
 ## Chapter 7:  Machine Learning: Logistic Regression on Spark - See Data Science on GCP
 
-<p></p>
+<p>
+<a href="https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/07_sparkml_and_bqml">Chapter 7</a></p>
 <p></p>
  
 [ back to Table of Contents](#toc)
@@ -51,7 +52,8 @@ Naive Bayes Notebook
 <a name="chapter8"></a>
 ## Chapter 8:  Time-Windowed Aggregate Features - See Data Science on GCP
 
-<p></p>
+<p>
+<a href="https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/08_dataflow">Chapter 8</a></p>
 <p></p> 
 
 [ back to Table of Contents](#toc)
@@ -59,7 +61,8 @@ Naive Bayes Notebook
 <a name="chapter9"></a>
 ## Chapter 9:  Machine Learning Classifier Using Tensorflow - See Data Science on GCP
 
-<p></p>
+<p>
+<a href="https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/09_cloudml">Chapter 9</a></p>
 <p></p> 
 
 [ back to Table of Contents](#toc)
@@ -67,7 +70,9 @@ Naive Bayes Notebook
 <a name="chapter10"></a>
 ## Chapter 10:  Real-Time Machine Learning 
 
-<p></p>
+<p>
+<a href="https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/10_realtime">Chapter 10</a>
+</p>
 <p></p> 
 
 [ back to Table of Contents](#toc)
