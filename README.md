@@ -104,9 +104,9 @@ Naive Bayes Notebook
 
 #### Python Example in Google Colab
 
-<p>Let's check out an example in code. Click on "Naive Bayes Notebook" to see an example of Naive Bayes in Google Colab Using Jupyter and Scikit-Learn. You can click on the Colab button to practice with the code</p>
-<p><a href="https://github.com/profunccdata/Knowledge_Based_Systems/blob/master/Naive_Bayes_Classifier_Gaussian.ipynb">
-Naive Bayes Notebook
+<p>Let's check out an example in code.</p>
+<p><a href="https://github.com/profunccdata/Knowledge_Based_Systems/blob/master/Association%20Rules%20Example%20in%20Jupyter.ipynb">
+Association Rules Notebook
 </a></p>
 
 #### Documentation for mlxtend (Machine Learning Extensions - Important Python Library)
