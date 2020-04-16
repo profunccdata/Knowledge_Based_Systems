@@ -5,11 +5,11 @@
 
 1. [ Chapter 6: Bayes Classifier on Cloud Dataproc ](#chapter6)
 2. [ Chapter 7: Machine Learning: Logistic Regression on Spark](#chapter7)
-2. [ Chapter 8: Time Windowed Aggregate Features](#chapter8)
-2. [ Chapter 9: Machine Learning Classifier Using Tensorflow](#chapter9)
-2. [ Chapter 10: Real-Time Machine Learning](#chapter10)
-2. [ Appendix A: Considerations for Sensitive Data within Machine Learning Dataasets](#appendixa)
-
+3. [ Chapter 8: Time Windowed Aggregate Features](#chapter8)
+4. [ Chapter 9: Machine Learning Classifier Using Tensorflow](#chapter9)
+5. [ Chapter 10: Real-Time Machine Learning](#chapter10)
+6. [ Appendix A: Considerations for Sensitive Data within Machine Learning Dataasets](#appendixa)
+7. [ Additional Content: Association Rules for Machine Learning](#association)
 
 <a name="chapter6"></a>
 ## Chapter 6:  Bayes Classifier on Cloud Dataproc
@@ -85,6 +85,13 @@ Naive Bayes Notebook
 <p></p> 
 
 [ back to Table of Contents](#toc)
- 
+
+
+<a name="association"></a>
+## Additional Content: Association Rules for Machine Learning
+<p></p>
+<p></p> 
+
+[ back to Table of Contents](#toc)
 
 
