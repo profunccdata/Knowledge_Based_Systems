@@ -88,6 +88,7 @@ Naive Bayes Notebook
 
 
 <a name="association"></a>
+
 ## Additional Content: Association Rules for Machine Learning
 <p></p>
 ### Introducing Association Rules for Machine Learning
