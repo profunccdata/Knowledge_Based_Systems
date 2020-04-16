@@ -109,9 +109,9 @@ Naive Bayes Notebook
 Naive Bayes Notebook
 </a></p>
 
-#### Scikit Learn Documentation for Naive Bayes
-  <p>The sklearn.naive_bayes module implements Naive Bayes algorithms. These are supervised learning methods based on applying Bayes’ theorem with strong (naive) feature independence assumptions.</p>
-  <a href="https://scikit-learn.org/stable/modules/naive_bayes.html">Scikit Learn Naive Bayes Documentation</a><p></p>
+#### Documentation for mlxtend (Machine Learning Extensions - Important Python Library)
+<p>
+  <a href="http://rasbt.github.io/mlxtend/api_subpackages/mlxtend.frequent_patterns/">mlxtend and the Apriori algorithm</a><p></p>
 <p></p> 
 
 [ back to Table of Contents](#toc)
