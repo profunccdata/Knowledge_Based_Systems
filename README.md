@@ -41,7 +41,7 @@ Naive Bayes Notebook
 [ back to Table of Contents](#toc)
  
 <a name="chapter7"></a>
-## Chapter 7:  Machine Learning: Logistic Regression on Spark
+## Chapter 7:  Machine Learning: Logistic Regression on Spark - See Data Science on GCP
 
 <p></p>
 <p></p>
@@ -49,7 +49,7 @@ Naive Bayes Notebook
 [ back to Table of Contents](#toc)
  
 <a name="chapter8"></a>
-## Chapter 8:  Time-Windowed Aggregate Features
+## Chapter 8:  Time-Windowed Aggregate Features - See Data Science on GCP
 
 <p></p>
 <p></p> 
@@ -57,7 +57,7 @@ Naive Bayes Notebook
 [ back to Table of Contents](#toc)
  
 <a name="chapter9"></a>
-## Chapter 9:  Machine Learning Classifier Using Tensorflow
+## Chapter 9:  Machine Learning Classifier Using Tensorflow - See Data Science on GCP
 
 <p></p>
 <p></p> 
@@ -65,7 +65,7 @@ Naive Bayes Notebook
 [ back to Table of Contents](#toc)
  
 <a name="chapter10"></a>
-## Chapter 10:  Real-Time Machine Learning
+## Chapter 10:  Real-Time Machine Learning 
 
 <p></p>
 <p></p> 
