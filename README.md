@@ -90,6 +90,25 @@ Naive Bayes Notebook
 <a name="association"></a>
 ## Additional Content: Association Rules for Machine Learning
 <p></p>
+### Introducing Association Rules for Machine Learning
+#### Bayes Theorem
+<p>Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database.</p>
+
+<p>Analytics Vidhya has an excellent introduction to Association Rule Mining in Python: </p>
+<a href="https://medium.com/analytics-vidhya/association-analysis-in-python-2b955d0180c">Association Analysis in Python</a><p></p>
+<p>Here is a good video explaining the Apriori Algorithm and Frequent Item Sets for Association Rule Mining:</p>
+<a href="https://www.youtube.com/watch?v=TcUlzuQ27iQ">Apriori Algorithm</a>
+
+#### Python Example in Google Colab
+
+<p>Let's check out an example in code. Click on "Naive Bayes Notebook" to see an example of Naive Bayes in Google Colab Using Jupyter and Scikit-Learn. You can click on the Colab button to practice with the code</p>
+<p><a href="https://github.com/profunccdata/Knowledge_Based_Systems/blob/master/Naive_Bayes_Classifier_Gaussian.ipynb">
+Naive Bayes Notebook
+</a></p>
+
+#### Scikit Learn Documentation for Naive Bayes
+  <p>The sklearn.naive_bayes module implements Naive Bayes algorithms. These are supervised learning methods based on applying Bayes’ theorem with strong (naive) feature independence assumptions.</p>
+  <a href="https://scikit-learn.org/stable/modules/naive_bayes.html">Scikit Learn Naive Bayes Documentation</a><p></p>
 <p></p> 
 
 [ back to Table of Contents](#toc)
